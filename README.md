@@ -1,0 +1,2 @@
+# Comfyui_NK_AIGC_Prompt_Optimization
+Comfyui_NK_AIGC_Prompt_Optimization 根据正向提示词**一键生成**高质量负面提示词。
